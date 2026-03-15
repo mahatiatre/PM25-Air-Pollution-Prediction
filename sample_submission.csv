@@ -1,0 +1,16 @@
+Region,Year,predicted_severity
+Afghanistan,2001,Moderate
+Afghanistan,2002,Moderate
+Afghanistan,2003,Moderate
+Afghanistan,2004,Critical
+Afghanistan,2005,Moderate
+Afghanistan,2006,Moderate
+Afghanistan,2007,Moderate
+Afghanistan,2008,Moderate
+Afghanistan,2009,Moderate
+Afghanistan,2010,Good
+Afghanistan,2011,Moderate
+Afghanistan,2012,Moderate
+Afghanistan,2013,Moderate
+Afghanistan,2014,Moderate
+Afghanistan,2015,Sensitive
